@@ -3,8 +3,6 @@
 #### I'm a high school student, and I create many different applications mainly in Java! (2 years) I work on a lot of projects (typically streamed or on youtube) for various content creators, and work on public projects in my free time.
 ####
 ## You might know me from... (previous projects)
-
-- MNPGames
 - MCWipeout
 - MC Odd Man Out
 - Retro Rivals
