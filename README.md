@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi! I'm Logical, or Logicologist. Nice to meet you!
 
-<!--
-**LogicologistDev/LogicologistDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a high school student, and I create many different applications mainly in Java! (2 years) I work on a lot of projects (typically streamed or on youtube) for various content creators, and work on public projects in my free time.
+####
+## You might know me from... (previous projects)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MNPGames
+- MCWipeout
+- MC Odd Man Out
+- Retro Rivals
+- Trash-A-Gone
+- LogicSMP
+####
+##  Crunch the numbers:
+[![trophy](https://github-profile-trophy.vercel.app/?username=logicologistdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+####
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logicologistdev&show_icons=true&theme=midnight-purple)
