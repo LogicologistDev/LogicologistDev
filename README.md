@@ -10,6 +10,14 @@
 - Trash-A-Gone
 - LogicSMP
 - BidWars
+## I've worked with/been hired by... (content creators I've worked with)
+- Zyphon - https://www.youtube.com/channel/UCOc6s_M_mByYrwj7HsYmqqQ
+- Dream - https://www.youtube.com/c/dream
+- McYum - https://www.youtube.com/c/McYum
+- McBirken - https://www.youtube.com/c/McBirken
+- P0LAND - https://www.youtube.com/c/P0LAND
+- DizzyTJ - https://www.youtube.com/c/DizzyTJ
+- And many more...
 ####
 ## Let's crunch the numbers:
 [![trophy](https://github-profile-trophy.vercel.app/?username=logicologistdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
