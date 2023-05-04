@@ -1,6 +1,6 @@
 ## Hi! I'm Logical, or Logicologist. Nice to meet you!
 
-#### I'm a high school student, and I create many different applications mainly in Java! (4 years) I work on a lot of projects (typically streamed on twitch or on youtube) for various content creators, and work on public projects in my free time.
+#### I'm a high school student, and I create many different applications mainly in Java! (5 years) I work on a lot of projects (typically streamed on twitch or on youtube) for various content creators, and work on public projects in my free time.
 ####
 ## You might know me from... (previous projects)
 - MNPGames
